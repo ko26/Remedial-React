@@ -1,0 +1,25 @@
+{
+  "credentials": [
+    {
+      "id": "1",
+      "nama": "test 123 edit",
+      "url": "http/tester.com edit",
+      "username": " komer edit",
+      "password": "komer123 edit"
+    },
+    {
+      "id": "2",
+      "nama": "test 123",
+      "url": "http/tester.com",
+      "username": "komer",
+      "password": "komer123"
+    },
+    {
+      "id": "3",
+      "nama": "test 123",
+      "url": "http/tester.com",
+      "username": "komer",
+      "password": "komer123"
+    }
+  ]
+}
